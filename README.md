@@ -3,6 +3,11 @@
 
 I am en secound year of tecnical informatique , we make lot of project to prove our self
 
+Language:
+-Español
+-Arabic
+-Frensh
+
 Skills: JAVA / SPRING BOOT /  SPRING SECURITY / SQL / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
