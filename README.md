@@ -1,24 +1,36 @@
 ### Hi there 👋, my name is Yassine
 #### I am Junior Developper
 
-I am en secound year of tecnical informatique , we make lot of project to prove our self
+I am en secound year of tecnical informatique , we make lot of project to prove our self, Ihave 22 years ,I live in spain
 
 Language:
 -Español
 -Arabic
 -Frensh
 
-Skills: JAVA / SPRING BOOT /  SPRING SECURITY / SQL / HTML / CSS
+
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: I like swiming 
 - ⚡ Fun fact: I love Foot ball
+  
+## Tecnologías:
+[![Boostrap](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+</br>
+[![Spring Boot](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+</br>
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
 
-  ![](https://img.shields.io/badge/java-15834-blue)
-![](https://img.shields.io/badge/SpringBoot-767-brightgreen)
-![](https://img.shields.io/badge/SQL-1528-orange)
+ ## Contact me:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
+[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
 
-My Spring Boot Project:
-https://gitlab.com/yainous/gymapp.git
+
+## Project:
+Spring Boot: https://gitlab.com/yainous/gymapp.git
 
 
