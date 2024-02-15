@@ -9,7 +9,7 @@ Skills: JAVA / SPRING BOOT /  SPRING SECURITY / SQL / HTML / CSS
 - ⚡ Fun fact: I love Foot ball
 
   ![](https://img.shields.io/badge/java-15834-blue)
-![](https://img.shields.io/badge/Spring Boot-767-brightgreen)
+![](https://img.shields.io/badge/SpringBoot-767-brightgreen)
 ![](https://img.shields.io/badge/SQL-1528-orange)
 
 
