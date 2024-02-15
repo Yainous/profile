@@ -9,8 +9,8 @@ Skills: JAVA / SPRING BOOT /  SPRING SECURITY / SQL / HTML / CSS
 - 📫 How to reach me: I like swiming 
 - ⚡ Fun fact: I love Foot ball
 
-  ![](https://img.shields.io/badge/Moves%20played-15834-blue)
-![](https://img.shields.io/badge/Completed%20games-767-brightgreen)
-![](https://img.shields.io/badge/Total%20players-1528-orange)
+  ![](https://img.shields.io/badge/java-15834-blue)
+![](https://img.shields.io/badge/Spring Boot-767-brightgreen)
+![](https://img.shields.io/badge/SQL-1528-orange)
 
 
