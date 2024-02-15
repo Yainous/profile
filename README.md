@@ -6,6 +6,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: JAVA / SPRING BOOT /  SPRING SECURITY / SQL / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+- 📫 How to reach me: I like swiming 
+- ⚡ Fun fact: I love Foot ball
 
+  ![](https://img.shields.io/badge/Moves%20played-15834-blue)
+![](https://img.shields.io/badge/Completed%20games-767-brightgreen)
+![](https://img.shields.io/badge/Total%20players-1528-orange)
 
 
