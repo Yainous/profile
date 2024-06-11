@@ -24,6 +24,16 @@ Language:
 ![MySQL](https://img.shields.io/badge/MySQL-08668F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0A0A0A)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-366594?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0A0A0A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-17AD55?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0A0A0A)
+![Git](https://img.shields.io/badge/Git-F05639?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0A0A)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)
+![GitLab](https://img.shields.io/badge/GitLab-E34930?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0A0A0A)
+![Unity](https://img.shields.io/badge/Unity-222C37?style=for-the-badge&logo=unity&logoColor=white&labelColor=0A0A0A)
+![C#](https://img.shields.io/badge/CSharp-853688?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0A0A0A)
+![Jira](https://img.shields.io/badge/Jira-2D88FF?style=for-the-badge&logo=jira&logoColor=white&labelColor=0A0A0A)
+![Trello](https://img.shields.io/badge/Trello-2D88FF?style=for-the-badge&logo=trello&logoColor=white&labelColor=0A0A0A)
+![Figma](https://img.shields.io/badge/Figma-5551FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=0A0A0A)
+![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0A0A)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-2C3644?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A)
 
  ## Contact me:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-yassine-ainous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
