@@ -36,7 +36,7 @@ Currently, I have one year of work experience and have been involved in two medi
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-2C3644?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A)
 
  ## Contact me:
-[![LinkedIn](https://img.shields.io/badge/yassine_ainoustyle=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://www.linkedin.com/in/yassine_ainous/)
+[![LinkedIn](https://img.shields.io/badge/yassine_ainous_style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A)](https://www.linkedin.com/in/yassine_ainous/)
 [![Instagram](https://img.shields.io/badge/%40ainou_yacin-FF08AB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0A)](https://www.instagram.com/ainou_yacin/)
 
 
