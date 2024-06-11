@@ -7,9 +7,8 @@
 * [TikTok](#tiktok)
 
 ## About the project
-Gateway is a simple 2D platformer with different mechanics that you will unlock as you play through the levels.
-It's my first project done with Unity and it's been developed over 3 weeks. The game is heavily inspired by the level from
-Geometry Dash "Gateway" by VYP.
+Endless Sprint es un juego de plataformas 3D simple con diferentes mecánicas que se desbloquean a medida que avanzas por los niveles,It's my first project done with Unity and it's been developed over 3 weeks. The game is heavily inspired by the level from
+Subway Surfer.
 
 ## Game design document
 Before programming, it's important to have a clear idea and put it on paper to know if the project can work.
