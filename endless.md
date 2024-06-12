@@ -12,7 +12,7 @@ Subway Surfer.
 
 ## Game design document
 Before programming, it's important to have a clear idea and put it on paper to know if the project can work.
-To plan it, a game design document (GDD) is usually created, you can find it in this [link](https://docs.google.com/document/d/1uVLHpd2P8sOpjQJx_6X1ru_B_Sr4UdAhdVTYPcLSNmc/edit?usp=sharing).
+To plan it, a game design document (GDD) is usually created, you can find it in this [link](https://docs.google.com/document/d/1Sn1yyXj_zRRQs_-lQLo9g0iaxPgRMfY6zp2QuZtwxUg/edit?usp=sharing).
 
 ## User guide
 To learn a little more about how to play Gateway, I've prepared this [user guide](https://docs.google.com/document/d/1VzeLPucojnIfp87h6c1S3RwPgGh4M7YCPzvFsccHLtA/edit?usp=sharing).
