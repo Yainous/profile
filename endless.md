@@ -15,7 +15,7 @@ Before programming, it's important to have a clear idea and put it on paper to k
 To plan it, a game design document (GDD) is usually created, you can find it in this [link](https://docs.google.com/document/d/1Sn1yyXj_zRRQs_-lQLo9g0iaxPgRMfY6zp2QuZtwxUg/edit?usp=sharing).
 
 ## User guide
-To learn a little more about how to play Gateway, I've prepared this [user guide](https://docs.google.com/document/d/1VzeLPucojnIfp87h6c1S3RwPgGh4M7YCPzvFsccHLtA/edit?usp=sharing).
+To learn a little more about how to play Gateway, I've prepared this [user guide](https://docs.google.com/document/d/1xX5tgvdZH4XOAxyChvNm3GN2AJuCp8Z9SMoxh_8uIZA/edit?usp=sharing).
 
 ## Video demo
 [Video demo](https://drive.google.com/file/d/1CzZFDsh1-z3dkUOz4E203ECjdQ_7xtqG/view?usp=sharing)
