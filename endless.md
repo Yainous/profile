@@ -21,8 +21,8 @@ To learn a little more about how to play Gateway, I've prepared this [user guide
 [Video demo](https://drive.google.com/file/d/1O6e_0LFa3nRgI_HUns5qlZgJI3krWJYv/view?usp=sharing)
 
 ## Releases
-- [Windows](https://drive.google.com/file/d/18jR-ELA9TG2CpcQyncO88V5MTWszCa9j/view?usp=sharing)
-- [Linux](https://drive.google.com/file/d/1IEzDD5-isuwWEAA3N9IkssdMVI_COzzu/view?usp=sharing)
+- [Windows]()
+- [Linux]()
 
 ## TikTok
 For advertisement purposes, I made this short [video](https://www.tiktok.com/@user6585235074268/video/7379443788554554656) and uploaded it to TikTok.
