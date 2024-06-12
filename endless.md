@@ -18,7 +18,7 @@ To plan it, a game design document (GDD) is usually created, you can find it in 
 To learn a little more about how to play Gateway, I've prepared this [user guide](https://docs.google.com/document/d/1xX5tgvdZH4XOAxyChvNm3GN2AJuCp8Z9SMoxh_8uIZA/edit?usp=sharing).
 
 ## Video demo
-[Video demo](https://drive.google.com/file/d/1CzZFDsh1-z3dkUOz4E203ECjdQ_7xtqG/view?usp=sharing)
+[Video demo](https://drive.google.com/file/d/1O6e_0LFa3nRgI_HUns5qlZgJI3krWJYv/view?usp=sharing)
 
 ## Releases
 - [Windows](https://drive.google.com/file/d/18jR-ELA9TG2CpcQyncO88V5MTWszCa9j/view?usp=sharing)
